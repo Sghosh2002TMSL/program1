@@ -1,8 +1,8 @@
 public class program1 {
     public static void main(String[] args) {
         
-        int a = 10;
-        int b = 20;
+        int a = 100;
+        int b = 200;
         
         
         System.out.println("Before swap: a = " + a + ", b = " + b);
